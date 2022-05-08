@@ -4,10 +4,10 @@ Hi 👋 My name is Brew
 Casual Programmer and Car Enthusiast
 ------------------------------------
 
-* 🌍  I'm based in Mars
 * ✉️  You can contact me at [airyepic@gmail.com](mailto:airyepic@gmail.com)
 * 🧠  I'm learning Python and Tensorcore
 * 🤝  I'm open to collaborating on AI / Neural Networks / Machine Learning
+* 🖥️  My Prefered OS is Arch Linux / Void / NixOS / Win11
 
 <a href="https://www.github.com/brewblew" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/brewblew?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
